@@ -5,15 +5,6 @@ A data analytics and machine learning project using **K-Means Clustering** and *
 
 ---
 
-## 📸 Cluster Visualization
-
-<p align="center">
-  <img src="visuals/Income%20vs%20spending%20analysis%20cluster.png" width="48%" alt="Income vs Spending Cluster" />
-  <img src="visuals/Customer%20analysis%20PCA1.png" width="48%" alt="PCA Cluster Distribution" />
-</p>
-
----
-
 ## 🎯 Customer Segments & Business Strategies
 The model uses dynamic median thresholds to automatically categorize customers into four key profiles[cite: 4]:
 
