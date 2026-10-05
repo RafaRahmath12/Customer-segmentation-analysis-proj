@@ -7,6 +7,11 @@ A data analytics and machine learning project using **K-Means Clustering** and *
 
 ## 📸 Cluster Visualization
 
+### Income vs Spending Segments
+![Income vs Spending](./visuals/Income%20vs%20spending%20analysis%20cluster.png)
+
+### PCA Cluster Distribution
+![PCA Cluster Analysis](./visuals/Customer%20analysis%20PCA1.png)
 
 ---
 
